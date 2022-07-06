@@ -9,4 +9,5 @@ def separation(arg1, arg2):
         separation_arg = arg1 / arg2
         print(int(separation_arg))
 
+
 print(separation(input('Введите число- '),input('Введите число- ')))
