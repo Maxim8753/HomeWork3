@@ -8,4 +8,5 @@ def sum_num(**kwargs):
             else:
                 stop += int(num)
         print(f'Сумма чисел - {stop}')
+
 print(sum_num())
